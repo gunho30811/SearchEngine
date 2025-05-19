@@ -1,4 +1,4 @@
-# 🧪 Demo: 벡터 검색 연습 프로젝트
+![image](https://github.com/user-attachments/assets/5e205ac3-164b-4de8-bbd5-e9a34ea632ad)# 🧪 Demo: 벡터 검색 연습 프로젝트
 
 이 `demo` 폴더는 **벡터 검색(Vector Search)**을 간단히 실습해보기 위한 예제입니다.  
 로컬 환경에서 데이터베이스를 구성하고, 벡터 기반 검색 결과를 테스트할 수 있습니다.
@@ -82,6 +82,15 @@ python index_kostat_to_es.py
 ### ✅ 6. 검색 서버 실행 (Flask)
 python app.py
 브라우저에서 http://localhost:9200 접속 확인
+
+실행 이미지
+--
+![image](https://github.com/user-attachments/assets/09771d6c-7d72-4b74-8560-36ef3da858ed)
+--
+![image](https://github.com/user-attachments/assets/ce9a006d-da86-439a-a19d-9e2b281a6d20)
+--
+
+
 ### ✅ 7. 포트 정리
 서비스	포트	설명
 1. Flask WAS	5000	검색 웹서버
