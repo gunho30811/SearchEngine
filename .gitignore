@@ -1,0 +1,5 @@
+.env
+# ElasticSearch 설치 파일 제외
+/demo/install/elasticsearch-7.17.10-windows-x86_64/
+/demo/install/elasticsearch-7.17.10-windows-x86_64.zip
+*.zip
